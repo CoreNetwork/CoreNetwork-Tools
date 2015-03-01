@@ -12,7 +12,7 @@ java -jar BlockReplacer.jar
 ## Example ##
 
 ```
-java -jar BlockReplacer.jar region 110 10,11 9
+java -jar BlockReplacer.jar region 110 117 10,11 9
 ```
 
 Above example will work on the `region` folder – the `BlockReplacer.jar` file was placed in `DIM-1` folder (Nether).
