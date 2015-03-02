@@ -17,6 +17,7 @@
         <filtering>true</filtering>
       </resource>
     </resources>
+    <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
